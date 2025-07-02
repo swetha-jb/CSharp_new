@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vvdn\\Desktop\\Storedev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\resources\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\resources\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\test\\purchase_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\test\\purchase_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\xpath\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\xpath\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\test\\test_changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\test\\test_changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\changemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\changemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\congo_forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\congo_forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\congo_onetime_otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\congo_onetime_otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\method\\login_withmfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\method\\login_withmfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|c:\\users\\vvdn\\desktop\\storedev\\storedev\\test\\test_loginwithmfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3A9A6E-DF52-4AA5-8071-3A4F3FC6C9CC}|Storedev\\Storedev.csproj|solutionrelative:storedev\\test\\test_loginwithmfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Resources\\Utility.cs",
+              "RelativeDocumentMoniker": "Storedev\\Resources\\Utility.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Resources\\Utility.cs",
+              "RelativeToolTip": "Storedev\\Resources\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:45:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Locators.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Xpath\\Locators.cs",
+              "RelativeDocumentMoniker": "Storedev\\Xpath\\Locators.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Xpath\\Locators.cs",
+              "RelativeToolTip": "Storedev\\Xpath\\Locators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:45:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_Changepass.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Test_Changepass.cs",
+              "RelativeDocumentMoniker": "Storedev\\Test\\Test_Changepass.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Test_Changepass.cs",
+              "RelativeToolTip": "Storedev\\Test\\Test_Changepass.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:49:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Purchase_test.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Purchase_test.cs",
+              "RelativeDocumentMoniker": "Storedev\\Test\\Purchase_test.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Purchase_test.cs",
+              "RelativeToolTip": "Storedev\\Test\\Purchase_test.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:49:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Changemail.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Changemail.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Changemail.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Changemail.cs",
+              "RelativeToolTip": "Storedev\\Method\\Changemail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:56.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Forgotpwd.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Forgotpwd.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Forgotpwd.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Forgotpwd.cs",
+              "RelativeToolTip": "Storedev\\Method\\Forgotpwd.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:07.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Congo_Forgotpwd.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Congo_Forgotpwd.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Congo_Forgotpwd.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Congo_Forgotpwd.cs",
+              "RelativeToolTip": "Storedev\\Method\\Congo_Forgotpwd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:03.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login_withMFA.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Login_withMFA.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Login_withMFA.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Login_withMFA.cs",
+              "RelativeToolTip": "Storedev\\Method\\Login_withMFA.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:03:39.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\BasePage.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\BasePage.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\BasePage.cs",
+              "RelativeToolTip": "Storedev\\Method\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:45:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Congo_onetime_otp.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Congo_onetime_otp.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Congo_onetime_otp.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Congo_onetime_otp.cs",
+              "RelativeToolTip": "Storedev\\Method\\Congo_onetime_otp.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test_LoginwithMFA.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Test_LoginwithMFA.cs",
+              "RelativeDocumentMoniker": "Storedev\\Test\\Test_LoginwithMFA.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Test\\Test_LoginwithMFA.cs",
+              "RelativeToolTip": "Storedev\\Test\\Test_LoginwithMFA.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:03:29.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Changepass.cs",
+              "DocumentMoniker": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Changepass.cs",
+              "RelativeDocumentMoniker": "Storedev\\Method\\Changepass.cs",
+              "ToolTip": "C:\\Users\\vvdn\\Desktop\\Storedev\\Storedev\\Method\\Changepass.cs",
+              "RelativeToolTip": "Storedev\\Method\\Changepass.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:19:39.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
